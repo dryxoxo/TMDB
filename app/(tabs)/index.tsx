@@ -9,7 +9,7 @@ export default function Tab() {
     <ScrollView style={{ backgroundColor: DarkTheme.background }}>
       <SafeAreaView style={styles.container}>
         <View style={styles.titleContainer}>
-          <Text style={styles.title}>Now Playing</Text>
+          <Text style={styles.title}>Now Playing test</Text>
         </View>
         <ScrollView horizontal showsHorizontalScrollIndicator={false}>
           <View style={styles.tinyLogo}>
